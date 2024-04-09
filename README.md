@@ -15,6 +15,23 @@ research and marketing. It's crucial to limit access to certain data, like banki
 with regulations like GDPR, emphasizing the importance of data minimization. For targeted marketing, generalized data, such
 as age ranges or residential districts, is sufficient, avoiding the need for detailed personal information.
 
+# Citation
+To cite the [preprint version of the paper](https://arxiv.org/abs/2404.05598), please use the following BibTeX entry:
+```
+@misc{loechel2024hookin,
+      title={Hook-in Privacy Techniques for gRPC-based Microservice Communication}, 
+      author={Louis Loechel and Siar-Remzi Akbayin and Elias Grünewald and Jannis Kiesel and Inga Strelnikova and Thomas Janke and Frank Pallas},
+      year={2024},
+      eprint={2404.05598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
+or use the following reference:
+```
+Louis Loechel, Siar-Remzi Akbayin, Elias Grünewald, Jannis Kiesel, Inga Strelnikova, Thomas Janke, Frank Pallas. 2024. Hook-in Privacy Techniques for gRPC-based Microservice Communication.
+```
+
 ## Setup
 This project is designed to run on Kubernetes, and we provide Terraform scripts to deploy it on Google Kubernetes Engine (GKE)
 and Amazon Web Services.
