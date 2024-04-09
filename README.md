@@ -16,7 +16,7 @@ with regulations like GDPR, emphasizing the importance of data minimization. For
 as age ranges or residential districts, is sufficient, avoiding the need for detailed personal information.
 
 # Citation
-To cite the [preprint version of the paper](https://arxiv.org/abs/2404.05598), please use the following BibTeX entry:
+To cite the [preprint version of the paper](https://arxiv.org/pdf/2404.05598.pdf), please use the following BibTeX entry:
 ```
 @misc{loechel2024hookin,
       title={Hook-in Privacy Techniques for gRPC-based Microservice Communication}, 
